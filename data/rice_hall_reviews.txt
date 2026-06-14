@@ -1,0 +1,20 @@
+DORM: Rice Hall
+SOURCE: Roomsurf, Gettysburg College Structured Data
+
+REVIEW 1: Rice Hall is situated on the edge of the first-year residential quad, but its physical placement still allows students to reach any central academic building in under ten minutes.
+
+REVIEW 2: While the inclusion of in-room air conditioning and microfridges is highly beneficial, the complete lack of a communal kitchen inside the building is a regular disappointment for students.
+
+REVIEW 3: The physical layout feels somewhat institutional due to traditional cinder-block walls and the lack of an elevator, but it remains a solid and functional residential option.
+
+PROS:
+Full in-room air conditioning and standard MicroFridge units
+Reliable first-floor laundry and garbage facilities
+- Highly convenient walking times to central classes
+
+CONS:
+No kitchen facilities anywhere inside the building
+- Lacks elevator access and is not ADA-compliant
+Traditional cinder-block aesthetic can feel sterile and uninviting
+
+BEST FOR: First-year students seeking a functional, quiet, air-conditioned home who do not require cooking facilities
