@@ -46,6 +46,8 @@ PROS / CONS / BEST FOR.
 Dorms covered: Hanson Hall, Huber Hall, Patrick Hall, Musselman Hall,
 Paul Hall, Stevens Hall, Penn Hall, McKnight Hall, and others.
 
+---
+
 ## Chunking Strategy
 
 <!-- How will you split documents into chunks?
@@ -75,7 +77,7 @@ Every chunk will be prefixed with the dorm name during ingestion
 (e.g., "Hanson Hall — CONS: thin walls...") so the LLM always knows 
 which dorm a chunk refers to, even without surrounding context.
 
-
+---
 
 ## Retrieval Approach
 
